@@ -1,6 +1,6 @@
 {
 	"id": "mdbcrm-plugin",
-	"name": "MDBCRM Plugin",
+	"name": "MDBCRM",
 	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "MDBCRM",

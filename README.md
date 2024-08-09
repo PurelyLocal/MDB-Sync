@@ -1,4 +1,4 @@
-# Obsidian MDBCRM Plugin
+# Obsidian MDBCRM
 
 This is a mdbcrm plugin for Obsidian (https://obsidian.md).
 
