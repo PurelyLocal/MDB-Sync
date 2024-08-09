@@ -1,10 +1,10 @@
 {
-	"id": "mdbsync-plugin",
-	"name": "Sample Plugin",
+	"id": "mdbcrm-plugin",
+	"name": "MDBCRM Plugin",
 	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "MDBSync",
-	"author": "MDBSync",
+	"description": "MDBCRM",
+	"author": "MDBCRM",
 	"authorUrl": "https://obsidian.md",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false

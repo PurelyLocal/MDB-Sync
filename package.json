@@ -1,7 +1,7 @@
 {
-	"name": "MDBSync",
+	"name": "MDBCRM",
 	"version": "1.0.1",
-	"description": "MDBSync pluginr for Obsidian (https://obsidian.md)",
+	"description": "MDBCRM pluginr for Obsidian (https://obsidian.md)",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

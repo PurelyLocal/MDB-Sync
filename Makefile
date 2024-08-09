@@ -2,7 +2,7 @@
 SRC_DIR = src
 BUILD_DIR = build
 DIST_DIR = dist
-PLUGIN_NAME = mdbsync-plugin
+PLUGIN_NAME = mdbcrm-plugin
 
 # Build command
 build:
